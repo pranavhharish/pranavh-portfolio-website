@@ -1,0 +1,191 @@
+{
+  "meta": {
+    "title": "Pranavh Harish Sivakumar",
+    "description": "Portfolio website showcasing product design work and skills"
+  },
+  "personal": {
+    "name": "Pranavh Harish Sivakumar",
+    "title": "Software Engineer | Product Manager",
+    "location": "Champaign, IL",
+    "avatar": "/pranavh.JPG",
+    "email": "phs4@illinois.edu",
+    "phone": "+1 (217) 377-9421",
+    "workingHours": "Monday - Friday, 9am - 5pm PST",
+    "availableForWork": true,
+    "social": [
+      {
+        "platform": "GitHub",
+        "url": "https://github.com/pranavhharish",
+        "icon": "Github"
+      },
+      {
+        "platform": "LinkedIn",
+        "url": "https://www.linkedin.com/in/pranavh-harish/",
+        "icon": "Linkedin"
+      },
+      {
+        "platform": "Twitter",
+        "url": "https://x.com/pranavh_harish",
+        "icon": "Twitter"
+      },
+      {
+        "platform": "Instagram",
+        "url": "https://www.instagram.com/pranavhharish/",
+        "icon": "Instagram"
+      }
+    ]
+  },
+  "about": {
+    "bio": "I'm a software engineer with a strong product mindset, passionate about building scalable solutions that create real impact. I enjoy working at the intersection of tech and business, and I'm currently exploring AI and Generative AI to drive smarter, user-focused products.",
+    "focus": [
+      "Building scalable and user-focused software products",
+      "Driving product decisions with data and system thinking",
+      "Exploring AI and Generative AI to enhance user experiences"
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "proficiency": "",
+        "level": 100,
+        "flag": "🇺🇸"
+      },
+      {
+        "name": "Tamil",
+        "proficiency": "",
+        "level": 100,
+        "flag": "🇪🇸"
+      }
+    ],
+    "interests": ["Design Systems", "Accessibility", "Typography", "Motion Design", "Photography"]
+  },
+  "navigation": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Experience",
+      "href": "#experience"
+    },
+    {
+      "label": "Credentials",
+      "href": "#credentials"
+    },
+    {
+      "label": "Skills",
+      "href": "#skills"
+    },
+    {
+      "label": "Projects",
+      "href": "#projects"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Program Analyst",
+      "company": "Citibank",
+      "period": "Jul 2023 - Jul 2024",
+      "description": "Worked within the Personal Banking and Wealth Management Technologies (PBWMT) division to support risk and compliance initiatives through technology-driven solutions. Collaborated with multiple business units to streamline operations, enhance reporting accuracy, and automate critical workflows.",
+      "achievements": [
+        "Assisted operational risk analysis across Vendor Support, implementing data-driven mitigation strategies that reduced losses by 44%",
+        "Built dashboards tracking 15+ Key Risk Indicators (KRIs), enabling real-time monitoring and reducing compliance reporting cycles by 65%",
+        "Developed RESTful API automation for risk assessment workflows, reducing manual processes by 70% and improve operational efficiency",
+        "Managed cross-functional support across Risk, Operations, Technology, Compliance, and Infra , delivering 95% regulatory accuracy"
+      ],
+      "technologies": [
+        "Jira",
+        "Confluence",
+        "Java",
+        "Spring Boot",
+        "MongoDB",
+        "Mockito",
+        "Junit",
+        "PowerBI",
+        "Microsoft Office Suite"
+      ]
+    },
+    {
+      "title": "Software Developer Engineer Co-Op",
+      "company": "Amazon",
+      "period": "Jan 2023 - Jun 2023",
+      "description": "Worked under the Amazon Shopping organization as part of the Associates Payments Team, focused on building scalable solutions for generating and reconciling invoices for affiliates in the marketing business. Developed backend systems that improved financial data integrity, reduced operational overhead, and optimized invoice processing at scale.",
+      "achievements": [
+        "Owned the end-to-end development of a Transaction Loader tool to automate financial reconciliation for invoice generation in payments• Improved error detection in $90M/month transactions in the Affiliate Marketing business, reducing manual validation efforts by 64%",
+        "Designed and implemented scalable AWS-based ETL pipelines (Lambda, Glue, S3, API Gateway) to process 7.6TB/month of JSON invoice data",
+        "Integrated CI/CD automation to boost system reliability, accelerate deployment cycles, and reduce time-to-production by 40%",
+        "Evaluated scalable solutions (Athena, EMR, Fargate) for cost-efficient cloud operations, leading to a 14% increase in processing efficiency",
+        "Conducted root-cause analysis and implemented automated unit testing, decreasing transaction pipeline failures by 45%"
+      ],
+      "technologies": ["AWS", "TypeScript", "Python", "Java", "Documentation", "Junit", "Mockito", "CI/CD"]
+    }
+  ],
+  "credentials": {
+    "certifications": [
+      {
+        "name": "Illinois Business Consulting",
+        "issuer": "Consultant",
+        "date": "2024",
+        "logo": "/IBC_logo.jpeg"
+      },
+      {
+        "name": "PSG Tech - Entrepreneurs Club",
+        "issuer": "Member",
+        "date": "2022-2023",
+        "logo": "/Eclub.png"
+      },
+      {
+        "name": "PSG Tech Alumini Coordinator",
+        "issuer": "Coordinator",
+        "date": "Present",
+        "logo": "/psg.png"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Master of Science in Information Management",
+        "institution": "University of Illinois Urbana Champaign",
+        "year": "2024-2026",
+        "logo": "/uiuc.png"
+      },
+      {
+        "degree": "Bachelor of Technology in Information Technology",
+        "institution": "PSG College of Technology",
+        "year": "2019-2023",
+        "logo": "/psg.png"
+      }
+    ],
+    "skills": [
+      "AI Agents & Automation",
+      "Product Thinking",
+      "Problem Solving",
+      "Vibe Coding",
+      "User Experience Research",
+      "Prompt"
+    ]
+  },
+  "technicalSkills": {
+    "design": ["Python", "SQL", "Java", "TypeScript", "JavaScript", "HTML", "CSS", "C++"],
+    "development": [
+      "Next.js",
+      "Node.js",
+      "React",
+      "Tailwind",
+      "LLM",
+      "OpenAI",
+      "Hugging Face",
+      "Langchain",
+      "Langgraph",
+      "MCP"
+    ],
+    "uxMethods": ["Git", "MongoDB", "AWS", "Supabase", "Weaviate", "Cursor", "neo4j", "Vercel"],
+    "softSkills": [
+      "Team Leadership",
+      "Project Management",
+      "Stakeholder Management",
+      "Cross-functional Collaboration",
+      "Presentations",
+      "Agile Methodologies",
+      "User Research"
+    ]
+  }
+}
